@@ -1,0 +1,2 @@
+# Buscaminas
+Actividad Juego Buscaminas
